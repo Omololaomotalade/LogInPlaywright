@@ -1,8 +1,4 @@
-Absolutely! Here's a sample `README.md` for your **Playwright login test script**—just like the Cypress one but tailored for Playwright:
 
----
-
-````markdown
 # 🔐 Playwright Login Test Script
 
 This project contains a basic **positive login test** implemented using [Playwright](https://playwright.dev/), an end-to-end testing framework by Microsoft. It is designed to verify successful login functionality on a web application.
