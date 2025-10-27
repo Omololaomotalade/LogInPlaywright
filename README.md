@@ -68,9 +68,9 @@ Feel free to fork this repository and submit pull requests for improvements or a
 
 ## 📫 Contact
 
-**Lola Omotalade**
+**Omolola Omotalade**
 📧 [omololaomotalade@yahoo.com](mailto:omololaomotalade@yahoo.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/omololaomotalade)
+🔗 [LinkedIn](www.linkedin.com/in/omolola-omotalade-106593150)
 
 ---
 
